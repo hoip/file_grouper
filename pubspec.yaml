@@ -1,0 +1,9 @@
+name: file_grouper
+description: Downloads File Grouper
+version: 0.1.0
+
+environment:
+  sdk: ">=2.5.0 <3.0.0"
+
+dependencies:
+  watcher: 0.9.7+15
